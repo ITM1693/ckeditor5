@@ -35,7 +35,7 @@
     "@ckeditor/ckeditor5-media-embed": "ckeditor/ckeditor5-media-embed",
     "@ckeditor/ckeditor5-paragraph": "ckeditor/ckeditor5-paragraph",
     "@ckeditor/ckeditor5-paste-from-office": "ckeditor/ckeditor5-paste-from-office",
-    "@ckeditor/ckeditor5-remove-format": "mlewand/ckeditor5-remove-format",
+    "@ckeditor/ckeditor5-remove-format": "ckeditor/ckeditor5-remove-format",
     "@ckeditor/ckeditor5-table": "ckeditor/ckeditor5-table",
     "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark",
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing",
