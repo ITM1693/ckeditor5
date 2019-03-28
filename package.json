@@ -68,7 +68,7 @@
     "@ckeditor/ckeditor5-comments": "^2.0.0",
     "@ckeditor/ckeditor5-dev-docs": "^11.0.1",
     "@ckeditor/ckeditor5-dev-env": "^14.0.1",
-    "@ckeditor/ckeditor5-dev-tests": "^16.1.0",
+    "@ckeditor/ckeditor5-dev-tests": "file:/tmp/ckeditor5-dev/packages/ckeditor5-dev-tests",
     "@ckeditor/ckeditor5-dev-utils": "^12.0.1",
     "@ckeditor/ckeditor5-dev-webpack-plugin": "^8.0.1",
     "@ckeditor/ckeditor5-inspector": "^1.2.0",
